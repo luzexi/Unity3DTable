@@ -1,3 +1,6 @@
+
+using System.Text.RegularExpressions;
+
 namespace IniSharp.Extension
 {
 static class RegexExtension

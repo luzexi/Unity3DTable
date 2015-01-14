@@ -15,7 +15,7 @@ public class CSVParser
     //parse csv from row 3.
     public static List<string> ParseFromRow2(string csvText)
     {
-        string[,] vecStr = SplitCsvGrid(csvText);
+		string[,] vecStr = Parse(csvText);
         List<string> lst = new List<string>();
 
         for (int j = 2; j < vecStr.GetLength(1)-2; j++)

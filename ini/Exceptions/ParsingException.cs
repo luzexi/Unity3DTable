@@ -1,3 +1,6 @@
+
+using System;
+
 namespace IniSharp.Exceptions
 {
     internal class ParsingException : Exception
