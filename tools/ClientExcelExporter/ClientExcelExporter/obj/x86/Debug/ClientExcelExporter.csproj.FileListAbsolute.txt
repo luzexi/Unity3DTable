@@ -1,0 +1,16 @@
+D:\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.exe
+D:\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.pdb
+D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.exe
+D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.pdb
+D:\ClientExcelExporter\ClientExcelExporter\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\ClientExcelExporter\ClientExcelExporter\bin\Debug\zh-CHS\Microsoft.SqlServer.Replication.resources.dll
+G:\InuProj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.exe
+G:\InuProj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.pdb
+G:\InuProj\trunk\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.exe
+G:\InuProj\trunk\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.pdb
+G:\InuProj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hero_binary\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.exe
+C:\Hero_binary\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.exe
+C:\Hero_binary\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.pdb
+C:\Hero_binary\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Debug\ClientExcelExporter.pdb

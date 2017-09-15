@@ -1,0 +1,5 @@
+D:\ClientExcelExporter\ClientMultiTextExporter\obj\Debug\ResolveAssemblyReference.cache
+D:\ClientExcelExporter\ClientMultiTextExporter\bin\Debug\ClientMultiTextExporter.exe
+D:\ClientExcelExporter\ClientMultiTextExporter\bin\Debug\ClientMultiTextExporter.pdb
+D:\ClientExcelExporter\ClientMultiTextExporter\obj\Debug\ClientMultiTextExporter.exe
+D:\ClientExcelExporter\ClientMultiTextExporter\obj\Debug\ClientMultiTextExporter.pdb

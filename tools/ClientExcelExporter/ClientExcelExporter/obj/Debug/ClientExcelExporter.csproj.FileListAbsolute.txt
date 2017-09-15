@@ -1,0 +1,10 @@
+E:\Visual Studio 2008 Projects\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.exe
+E:\Visual Studio 2008 Projects\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.pdb
+E:\Visual Studio 2008 Projects\ClientExcelExporter\ClientExcelExporter\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008 Projects\ClientExcelExporter\ClientExcelExporter\obj\Debug\ClientExcelExporter.exe
+E:\Visual Studio 2008 Projects\ClientExcelExporter\ClientExcelExporter\obj\Debug\ClientExcelExporter.pdb
+E:\Panda_Proj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\Debug\ClientExcelExporter.exe
+E:\Panda_Proj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\Debug\ClientExcelExporter.pdb
+E:\Panda_Proj\trunk\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.exe
+E:\Panda_Proj\trunk\tools\ClientExcelExporter\ClientExcelExporter\bin\Debug\ClientExcelExporter.pdb
+E:\Panda_Proj\trunk\tools\ClientExcelExporter\ClientExcelExporter\obj\Debug\ResolveAssemblyReference.cache

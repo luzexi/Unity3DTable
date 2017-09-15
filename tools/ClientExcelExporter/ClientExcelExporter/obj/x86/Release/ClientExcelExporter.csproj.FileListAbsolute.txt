@@ -1,0 +1,5 @@
+D:\ClientExcelExporter\ClientExcelExporter\bin\Release\ClientExcelExporter.exe
+D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ClientExcelExporter.exe
+D:\ClientExcelExporter\ClientExcelExporter\bin\Release\Microsoft.SqlServer.Replication.dll
+D:\ClientExcelExporter\ClientExcelExporter\bin\Release\zh-CHS\Microsoft.SqlServer.Replication.resources.dll
