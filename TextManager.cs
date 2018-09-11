@@ -253,7 +253,10 @@ public class TextManager
 	{
 		if (_key == null || _key == string.Empty) return string.Empty;
 		int _id = -1;
-		headerDictionary.TryGetValue(_key, out _id);
+		if(!headerDictionary.TryGetValue(_key, out _id))
+		{
+			return _key;
+		}
 		return GetText(_id);
 	}
 	
