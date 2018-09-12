@@ -1,0 +1,9 @@
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\bin\Release\ClientMultiTextExporterNPOI.exe.config
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\bin\Release\ClientMultiTextExporterNPOI.exe
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\bin\Release\ClientMultiTextExporterNPOI.pdb
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\bin\Release\Ionic.Zip.dll
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\bin\Release\NPOI.dll
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.csproj.CoreCompileInputs.cache
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.csproj.CopyComplete
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.exe
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.pdb

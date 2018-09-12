@@ -13,8 +13,8 @@ cd ..
 
 :EXPORTSTUFF
 cd tables
-call exportData.bat
-call exportText.bat
+call exportDataNPOI.bat
+call exportTextNPOI.bat
 cd ..
 
 

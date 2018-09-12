@@ -1,0 +1,10 @@
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\bin\Debug\ClientExcelExporterNPOI.exe.config
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\bin\Debug\ClientExcelExporterNPOI.exe
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\bin\Debug\ClientExcelExporterNPOI.pdb
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\bin\Debug\Ionic.Zip.dll
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\bin\Debug\NPOI.dll
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Debug\ClientExcelExporterNPOI.csprojAssemblyReference.cache
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Debug\ClientExcelExporterNPOI.csproj.CoreCompileInputs.cache
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Debug\ClientExcelExporterNPOI.csproj.CopyComplete
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Debug\ClientExcelExporterNPOI.exe
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Debug\ClientExcelExporterNPOI.pdb
