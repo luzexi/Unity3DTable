@@ -76,7 +76,7 @@ namespace ClientExcelExporter
 
                         Dictionary<string, int> dicHeaders = new Dictionary<string, int>();
                         //start export
-                        for (int i = 1; i < RowCount; i++)
+                        for (int i = 0; i < RowCount; i++)
                         {
                             //this excatly fit the settings of _tableConfig.xls
                             if (exportSettings[i, 0] == null)

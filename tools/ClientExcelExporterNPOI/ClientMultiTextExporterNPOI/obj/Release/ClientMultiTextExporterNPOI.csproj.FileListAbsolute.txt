@@ -7,3 +7,4 @@ D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporte
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.csproj.CopyComplete
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.exe
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.pdb
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientMultiTextExporterNPOI\obj\Release\ClientMultiTextExporterNPOI.csprojAssemblyReference.cache

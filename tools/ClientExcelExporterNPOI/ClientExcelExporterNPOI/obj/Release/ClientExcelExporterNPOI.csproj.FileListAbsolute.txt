@@ -7,3 +7,4 @@ D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPO
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Release\ClientExcelExporterNPOI.csproj.CopyComplete
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Release\ClientExcelExporterNPOI.exe
 D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Release\ClientExcelExporterNPOI.pdb
+D:\work\github\Unity3DTable\tools\ClientExcelExporterNPOI\ClientExcelExporterNPOI\obj\Release\ClientExcelExporterNPOI.csprojAssemblyReference.cache

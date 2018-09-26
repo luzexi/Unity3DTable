@@ -3,3 +3,6 @@ D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ResolveAssemblyRefere
 D:\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ClientExcelExporter.exe
 D:\ClientExcelExporter\ClientExcelExporter\bin\Release\Microsoft.SqlServer.Replication.dll
 D:\ClientExcelExporter\ClientExcelExporter\bin\Release\zh-CHS\Microsoft.SqlServer.Replication.resources.dll
+D:\work\github\Unity3DTable\tools\ClientExcelExporter\ClientExcelExporter\bin\Release\ClientExcelExporter.exe
+D:\work\github\Unity3DTable\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ClientExcelExporter.csproj.CoreCompileInputs.cache
+D:\work\github\Unity3DTable\tools\ClientExcelExporter\ClientExcelExporter\obj\x86\Release\ClientExcelExporter.exe
